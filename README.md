@@ -1,4 +1,4 @@
-# College-ERP
+# College-Management-System
 A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 
 ## Installation
@@ -94,4 +94,3 @@ This will delete all present attendance data and create new attendance objects f
 ![alt text](https://imgur.com/tMKWx6f.png)
 
 ![alt text](https://imgur.com/PvCsNeB.png)
-# Collage-Management
